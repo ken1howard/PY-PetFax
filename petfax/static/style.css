@@ -1,0 +1,10 @@
+body {
+    background-color: lightgray
+}
+
+.container {
+    width: 50%;
+    margin: 2em auto;
+    padding: 1em 3em 3em 3em;
+    border-radius: 1em;
+}
